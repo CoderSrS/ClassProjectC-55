@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+
+div{
+    margin-top: 10px;
+}
+.image-Select{
+    display: flex;
+    justify-content: center;
+}
+ .image-section{
+     margin-right:10px;
+     margin-left: 10px;
+     background-color: rgb(221, 22, 22);
+ }
